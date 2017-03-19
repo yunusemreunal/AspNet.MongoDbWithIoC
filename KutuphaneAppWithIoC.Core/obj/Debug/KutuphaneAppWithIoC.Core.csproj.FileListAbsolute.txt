@@ -1,0 +1,15 @@
+C:\Users\Emre\documents\visual studio 2013\Projects\KutuphaneAppWithIoC\KutuphaneAppWithIoC.Core\bin\Debug\KutuphaneAppWithIoC.Core.dll
+C:\Users\Emre\documents\visual studio 2013\Projects\KutuphaneAppWithIoC\KutuphaneAppWithIoC.Core\bin\Debug\KutuphaneAppWithIoC.Core.pdb
+C:\Users\Emre\documents\visual studio 2013\Projects\KutuphaneAppWithIoC\KutuphaneAppWithIoC.Core\bin\Debug\Castle.Core.dll
+C:\Users\Emre\documents\visual studio 2013\Projects\KutuphaneAppWithIoC\KutuphaneAppWithIoC.Core\bin\Debug\Castle.Windsor.dll
+C:\Users\Emre\documents\visual studio 2013\Projects\KutuphaneAppWithIoC\KutuphaneAppWithIoC.Core\bin\Debug\MongoDB.Bson.dll
+C:\Users\Emre\documents\visual studio 2013\Projects\KutuphaneAppWithIoC\KutuphaneAppWithIoC.Core\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Emre\documents\visual studio 2013\Projects\KutuphaneAppWithIoC\KutuphaneAppWithIoC.Core\bin\Debug\MongoDB.Driver.dll
+C:\Users\Emre\documents\visual studio 2013\Projects\KutuphaneAppWithIoC\KutuphaneAppWithIoC.Core\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Emre\documents\visual studio 2013\Projects\KutuphaneAppWithIoC\KutuphaneAppWithIoC.Core\bin\Debug\Castle.Core.xml
+C:\Users\Emre\documents\visual studio 2013\Projects\KutuphaneAppWithIoC\KutuphaneAppWithIoC.Core\bin\Debug\Castle.Windsor.xml
+C:\Users\Emre\documents\visual studio 2013\Projects\KutuphaneAppWithIoC\KutuphaneAppWithIoC.Core\bin\Debug\MongoDB.Bson.xml
+C:\Users\Emre\documents\visual studio 2013\Projects\KutuphaneAppWithIoC\KutuphaneAppWithIoC.Core\bin\Debug\MongoDB.Driver.xml
+C:\Users\Emre\documents\visual studio 2013\Projects\KutuphaneAppWithIoC\KutuphaneAppWithIoC.Core\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Emre\documents\visual studio 2013\Projects\KutuphaneAppWithIoC\KutuphaneAppWithIoC.Core\obj\Debug\KutuphaneAppWithIoC.Core.dll
+C:\Users\Emre\documents\visual studio 2013\Projects\KutuphaneAppWithIoC\KutuphaneAppWithIoC.Core\obj\Debug\KutuphaneAppWithIoC.Core.pdb

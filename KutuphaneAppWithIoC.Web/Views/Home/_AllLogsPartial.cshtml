@@ -1,0 +1,25 @@
+﻿@model IEnumerable<KutuphaneAppWithIoC.Core.Services.Dto.LogDto>
+
+<h3>Logs</h3>
+<table class="table table-hover table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Ödünç Alan Kişi</th>
+            <th>Kitap</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var log in Model)
+        {
+
+            <tr>
+                <td>
+                    @log.Isbn
+                </td>
+                <td>@log.Borrower</td>
+                <td>@log.BookTitle</td>
+            </tr>
+        }
+    </tbody>
+</table>

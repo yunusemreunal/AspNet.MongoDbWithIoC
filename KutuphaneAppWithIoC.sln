@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KutuphaneAppWithIoC.Web", "KutuphaneAppWithIoC.Web\KutuphaneAppWithIoC.Web.csproj", "{42153A5B-1302-4F4F-BE03-2653255AFD92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KutuphaneAppWithIoC.Core", "KutuphaneAppWithIoC.Core\KutuphaneAppWithIoC.Core.csproj", "{F25CA5F4-7F46-495B-92E5-578FA62407DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42153A5B-1302-4F4F-BE03-2653255AFD92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42153A5B-1302-4F4F-BE03-2653255AFD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42153A5B-1302-4F4F-BE03-2653255AFD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42153A5B-1302-4F4F-BE03-2653255AFD92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F25CA5F4-7F46-495B-92E5-578FA62407DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F25CA5F4-7F46-495B-92E5-578FA62407DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F25CA5F4-7F46-495B-92E5-578FA62407DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F25CA5F4-7F46-495B-92E5-578FA62407DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,34 @@
+﻿@using KutuphaneAppWithIoC.Core.Services.Const
+@model IEnumerable<KutuphaneAppWithIoC.Core.Services.Dto.BookDto>
+
+@foreach (var book in Model)
+{
+    <tr>
+        <td>@book.Isbn</td>
+        <td>@book.Title</td>
+        <td>@book.Author</td>
+        <td>@book.Status</td>
+        <td class="text-right">
+            @if (book.Status == GeneralConsts.KitapDurumuKutuphanede)
+            {
+                <a href="#borrowBookModal" data-toggle="modal" onclick="bookStore.borrowBookDetail(@book.Isbn)" class="btn btn-info">
+                    <i class="fa fa-share"></i> Ödünç Ver
+                </a>
+            }
+            <div class="btn-group">
+                <a data-toggle="dropdown" href="#" class="btn btn-info" aria-expanded="false">
+                    İşlemler
+                    <i class="fa fa-angle-down"></i>
+                </a>
+                <ul class="dropdown-menu">
+                    <li><a href="#updateBookModal" data-toggle="modal" onclick="bookStore.getBookDetail(@book.Isbn)"><i class="fa fa-pencil"></i> Güncelle</a></li>
+                    <li class="divider"></li>
+                    <li><a href="#" onclick="bookStore.deleteBook(@book.Isbn)"><i class="fa fa-trash-o"></i> Sil</a></li>
+                </ul>
+            </div>
+        </td>
+    </tr>
+
+}
+
+
